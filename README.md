@@ -1,2 +1,7 @@
 # Kagu
-MultiThread SpringBoot Application to index elasticsearch by fetching data from mySql.
+
+Elasticsearch Indexing Application
+
+MultiThread SpringBoot Application to index elasticsearch data from mySql
+
+Suggestion are welcomed :)
